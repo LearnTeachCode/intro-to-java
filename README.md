@@ -8,7 +8,8 @@ The class structure is based heavily on the free online book: http://math.hws.ed
 
 We read the material, a demo is given, then we work in pairs to practice what we've learned.
 
-This class was designed to give beginner adults a quick overview of the basics of of the java programming language.
+This class was designed to give beginner adults a quick overview of the basics of the java programming language.
+
 Here's the class sequence:
 
 ###Session 1
